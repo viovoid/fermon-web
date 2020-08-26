@@ -1,3 +1,4 @@
+A grow/brew/fermentation project tracking system
 
 ## Available Scripts
 
